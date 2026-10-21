@@ -1,0 +1,6 @@
+{
+  "name": "Order Admin - Skincare Store Dashboard",
+  "description": "Secure, responsive order management dashboard and product catalog for online skincare store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
